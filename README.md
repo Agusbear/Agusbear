@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Agustin</h1>
+<h1 align="center">Hi 👋, I'm Agusbear</h1>
 <h3 align="center">A dedicated Full Stack Web Developer from USA!</h3>
-<p>I am Agustin Scaffidi, a Full Stack Developer from Dallas, Texas.
+<p>I am Agusbear, a Full Stack Developer from Dallas, Texas.
 
 I currently specialize in JavaScript, with technologies such as ReactJs, NodeJs and MySQL. As well as experience using Redux, Firebase, Auth0, JWL, AWS and other mainstream technologies. 
 My objectives as a Web Developer are to become a part of something bigger, something that matters and that will have at least the tiniest effect in the greater world.</p>
@@ -8,10 +8,6 @@ My objectives as a Web Developer are to become a part of something bigger, somet
 - 🌱 I’m currently learning **React Native, Firebase**
 
 - 💬 Ask me about **React, Node, Redux**
-
-- 📫 How to reach me **agustinscaffidi@gmail.com**
-
-- 📄 My Linkedin! [www.linkedin.com/in/agustin-scaffidi/](www.linkedin.com/in/agustin-scaffidi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
